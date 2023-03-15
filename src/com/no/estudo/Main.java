@@ -16,7 +16,7 @@ public class Main {
         System.out.println(minhaPilha.pop());
         System.out.println(minhaPilha);
 
-        minhaPilha.push(new No(69));
+        minhaPilha.push(new No(199));
         System.out.println(minhaPilha);
     }
 }
